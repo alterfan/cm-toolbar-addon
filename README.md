@@ -1,7 +1,9 @@
 # cm-addon-toolbar
 
 CodeMirror action toollbar
+
 -Visible on focus.
+
 -Works whith multiple editor
 
 # Usage
