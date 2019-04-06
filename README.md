@@ -1,4 +1,4 @@
-﻿﻿# cm-toolbar-addon
+# cm-addon-toolbar
 
 CodeMirror action toollbar
 -Visible on focus.
